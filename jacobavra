@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Website title and icon -->
+	<title>Jacob Avra</title>
+	<link rel="icon" href="Emblem.jpg">
+
+	<!--  Stylesheets -->
+	<link rel="stylesheet" type="text/css" href="JA-CSS.css">
+	<!-- For Email, LinkedIn, and Instagram in the footer -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+	<div class="header">
+		<a id="header-logo"><img src="Emblem.jpg" alt="A Random Picture"></a>
+		<ul>
+			<li><a href="JacobAvra.html"><font color="#FFCC66">About</font></a></li>
+			<li><a href="JA-Skills.html">Skills</a></li>
+			<li><a href="JA-Experience.html">Experience</a></li>
+			<!--<li><a href="JA-Projects.html">Projects</a></li>-->
+			<li><a href="JA-Contact.html">Contact</a></li>
+		</ul>
+	</div>
+
+	<div class="section" id="introduction">
+		<h1 class="title">Jacob Avra</h1>
+		<h3 class="heading">Future Computer Scientist</h3>
+		<a class="button" href="#about">About Me</a>
+		<a class="button" href="Resume2019.pdf" target="_blank">Download my Resume</a>
+	</div>
+
+	<div class="section" id="about">
+		<div class="section-wrapper">
+			<h2 class="heading">About</h2>
+			<div class="accent-line"></div>
+
+			<h1 class="title">Hello World, I'm Jacob.</h1>
+
+			<img id="headshot-image" src="headshot.jpeg" alt="A Headshot of Me">
+
+			<h3 class="heading">I'm a CS student at Mississippi College with a minor in graphic design.</h3>
+
+			<p>I will be graduating in December 2020 with a Bachelor of Science in computer science and a minor in graphic design. I have experience 
+			in a variety of fields, including web development, GUIs, cybersecurity, and more. I promise to always deliver high quality code.</p>
+
+			<p>Outside of my digital interests, I also enjoy <font color="#E1C669">camping</font>, <font color="#E1C669">hiking</font>, 
+			<font color="#E1C669">swimming</font>, <font color="#E1C669">skiing</font>, and <font color="#E1C669">ice skating</font>.</p>
+
+			<p>A few noteworthy courses I've taken include:</p>
+			<ul class="taglist">
+				<li>Intro to Computers</li>
+				<li>Fundamentals of Networking Technologies</li>
+				<li>Computer Illustration</li>
+				<li>Foundations of Computer Science</li>
+				<li>Intro to Programming and Problem Solving</li>
+				<li>Social and Ethical Issues in Computer Science</li>
+				<li>Data Structures</li>
+				<li>Web Design</li>
+				<li>Introduction to Graphics Software</li>
+				<li>Advanced Data Structures and Algorithms</li>
+			</ul>
+		</div>
+	</div>
+  
+  <div class="section" id="skills">
+		<div class="section-wrapper">
+			<h2 class="heading">Skills</h2>
+			<div class="accent-line"></div>
+			<h3 class="heading">Coding Languages</h3>
+			<ul class="taglist">
+				<li>C / C++</li>
+				<li>CSS</li>
+				<li>HTML</li>
+				<li>Java</li>
+				<li>Python</li>
+				<li>SQL</li>
+			</ul>
+			<h3 class="heading">Graphic Design Apps</h3>
+			<ul class="taglist">
+				<li>Adobe Illustrator</li>
+				<li>Adobe InDesign</li>
+				<li>Adobe Photoshop</li>
+				<li>Excel</li>
+				<li>PowerPoint</li>
+				<li>Word</li>
+			</ul>
+			<h3 class="heading">Operating Systems</h3>
+			<ul class="taglist">
+				<li>MacOS</li>
+				<li>Windows</li>
+			</ul>
+			<h4>You can view my resume <a href="Resume2019.pdf" target="_blank">here</a>.</h4>
+		</div>
+	</div>
+  
+  <div class="section" id="experience">
+		<div class="section-wrapper">
+			<h2 class="heading">Experience</h2>
+			<div class="accent-line"></div>
+
+			<div class="line heading">
+				<h3 class="job-title">Media Assistant</h3>
+				<h4 class="date"> 2013 - 2016</h4>
+			</div>
+			<div class="line heading">
+				<h4 class="company">Humble Areas First Baptist Church</h4>
+				<h4 class="location">Houston, TX</h4>
+			</div>
+			<p>As a Media Assistant I helped problem solve any technical and audio issues as well as set up any sound equipment. This experience helped me think like a computer scientist, finding errors and fixing them in a creative way as well as planning ahead to try and fix problems before they even appear.</p>
+			<ul class="taglist">
+				<li>Problem Solve</li>
+				<li>Planning</li>
+				<li>Fixing errors</li>
+			</ul>
+
+			<div class="line heading">
+				<h3 class="job-title">Team Member</h3>
+				<h4 class="date">January 2014 - November 2014</h4>
+			</div>
+			<div class="line heading">
+				<h4 class="company">Chick-fil-A</h4>
+				<h4 class="location">Houston, TX</h4>
+			</div>
+			<p>While it may not be related to computer science, during my time as a Team Member at Chick-fil-A I acquired many useful skills that I still use in the workplace today. I learned how to work efficiently in a fast-paced, stressful environment, how to resolve conflicts, and how to work as a team. I also realized the importance of doing a job the right way, instead of the quick way.</p>
+			<ul class="taglist">
+				<li>Fast Paced Environment</li>
+				<li>Quality over Quantity</li>
+				<li>Resolving Conflict</li>
+				<li>Teamwork</li>
+			</ul>
+
+			<div class="line heading">
+				<h3 class="job-title">Teacher's Aide</h3>
+				<h4 class="date">August 2013 - December 2013</h4>
+			</div>
+			<div class="line heading">
+				<h4 class="company">Home Run Ministries</h4>
+				<h4 class="location">Houston, TX</h4>
+			</div>
+			<p>I was one of the toddlers physical education teachers. My job was to entertain the children in an active way. This may sound easy, but it is harder then you think to entertain twenty little kids every week. This job helped me create new games and find new ways to do old things. In addition to helping the kids, I sold snacks for the school during lunch, which has given me a solid view of business tactics and selling goods.</p>
+			<ul class="taglist">
+				<li>Creativity</li>
+				<li>Business Tactics</li>
+				<li>Selling Goods</li>
+			</ul>
+		</div>
+	</div>
+  
+  <div class="section" id="contact">
+		<div class="section-wrapper">
+			<div class="section" id="introduction">
+		<h1 class="title">Jacob Avra</h1>
+		<h3 class="heading">Future Computer Scientist</h3>
+	</div>
+			<br />
+			<h2 class="heading">Contact</h2>
+			<div class="accent-line"></div>
+			<p>Feel free to contact me using the form below!</p>
+			<form method="POST" action="https://formspree.io/jacobavra@yahoo.com">
+				<input type="text" name="name" placeholder="Name" required>
+				<br>
+				<input type="email" name="_replyto" placeholder="Email" required>
+				<br>
+				<textarea name="message" placeholder="Message" required></textarea>
+				<button class="button" type="submit">Submit</button>
+			</form>
+		</div>
+	</div>
+
+	<div class="footer">
+		<ul>
+			<li><a href="mailto:jacobavra@yahoo.com" class="fa fa-envelope" title="Email"></a></li>
+			<li><a href="https://www.linkedin.com/in/jacob-avra-5a17a1102/" class="fa fa-linkedin" title="LinkedIn" target="_blank"></a></li>
+			<li><a href="https://www.instagram.com/jtavra4/" class="fa fa-instagram" title="fa fa-instagram" target="_blank"></a></li>
+		</ul>
+		<div class="copyright">
+			&#169; Jacob Avra 2019
+		</div>
+	</div>
+</body>
+</html>
